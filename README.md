@@ -1,22 +1,14 @@
-# CPP00
+    # CPP00
 
-## Description
-Introductory C++ module focusing on classes, strings, and I/O.
+    C++ Module 00: classes, basics, and I/O (e.g., PhoneBook exercise).
 
-## Features
-- Exercises for basic OOP and object lifecycles.
+    ## Topics
+    - Basic classes, methods, and encapsulation.
+    - Simple CLI I/O and string handling.
 
-## Technologies Used
-- C++98, Makefile.
+    ## Build & Run
+    - `make` per exercise directory (C++98 flags).
+    - Run the produced binary (e.g., phonebook CLI).
 
-## Installation
-- Run `make` inside each exercise directory (if provided).
-
-## Usage
-- Execute the built binaries for each exercise.
-
-## Example
-- Run a phonebook or simple class demo.
-
-## Author
-- Oualid Obbad (@oualidobbad)
+    ## Author
+    Oualid Obbad (@oualidobbad)
